@@ -9,3 +9,5 @@ fun main() {
     println( "Name is ${name.uppercase()}")
     println( "Name is ${arr1[0]} ${arr1[1]} ")
 }
+
+class Empty
